@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/nft-card-component-FEM/static/js/main.d70bc6ef.js",
+    "static/media/image-equilibrium.jpg": "/nft-card-component-FEM/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/nft-card-component-FEM/index.html",
+    "static/media/icon-view.svg": "/nft-card-component-FEM/static/media/icon-view.fedac5512cc6657af397a76d5e03ea37.svg",
+    "static/media/icon-clock.svg": "/nft-card-component-FEM/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
+    "static/media/icon-ethereum.svg": "/nft-card-component-FEM/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
+    "main.d70bc6ef.js.map": "/nft-card-component-FEM/static/js/main.d70bc6ef.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d70bc6ef.js"
+  ]
+}
